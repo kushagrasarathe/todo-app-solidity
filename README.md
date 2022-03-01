@@ -1,2 +1,2 @@
-# todo-app-solidity
-To-do app built on blockchain as a project for Hackathon :*)
+# ToDo App Solidity
+ToDo app built on blockchain for web3con :)
